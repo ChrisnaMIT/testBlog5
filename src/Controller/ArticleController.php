@@ -3,7 +3,6 @@
 namespace App\Controller;
 
 use App\Entity\Article;
-use App\Repository\ArticleRepository;
 use Attributes\DefaultEntity;
 use Core\Controller\Controller;
 use Core\Response\Response;

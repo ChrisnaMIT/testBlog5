@@ -26,6 +26,9 @@
                     <a class="nav-link" href="?type=article&action=addArticle">New Article</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link" href="?type=post&action=create">New Post</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" href="signIn.php">Sign In</a>
                 </li>
                 <li class="nav-item">
